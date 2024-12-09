@@ -21,7 +21,7 @@ The general process is:
 
 - Click the GitHub logo button (the 'OctoCat') in Canvas; we will show you
   exactly which button this is soon.
-- Create a personal copy (a 'fork') of the assignment into your GitHub account.
+- Create a personal copy (a 'fork') of the assignment into yonpur GitHub account.
 - Download your personal copy to your computer (referred to as 'cloning').
 - Complete the required work.
 - Push your completed code back up to your GitHub repo.
